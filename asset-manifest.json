@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard_app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dashboard_app/static/js/main.43523ead.chunk.js",
+    "main.js.map": "/dashboard_app/static/js/main.43523ead.chunk.js.map",
+    "runtime-main.js": "/dashboard_app/static/js/runtime-main.ca4d1db4.js",
+    "runtime-main.js.map": "/dashboard_app/static/js/runtime-main.ca4d1db4.js.map",
+    "static/js/2.de5e809c.chunk.js": "/dashboard_app/static/js/2.de5e809c.chunk.js",
+    "static/js/2.de5e809c.chunk.js.map": "/dashboard_app/static/js/2.de5e809c.chunk.js.map",
+    "static/js/3.c0b85d00.chunk.js": "/dashboard_app/static/js/3.c0b85d00.chunk.js",
+    "static/js/3.c0b85d00.chunk.js.map": "/dashboard_app/static/js/3.c0b85d00.chunk.js.map",
+    "index.html": "/dashboard_app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dashboard_app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.de5e809c.chunk.js.LICENSE.txt": "/dashboard_app/static/js/2.de5e809c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dashboard_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca4d1db4.js",
+    "static/js/2.de5e809c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.43523ead.chunk.js"
+  ]
+}
